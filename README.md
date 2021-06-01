@@ -39,7 +39,7 @@ Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows�
 ## 4.FluentLight
 
 ![](img/fluentlight.png)
-
+![](img/escaping.png)
 <br>
 
 ## 5.Jamstatic
