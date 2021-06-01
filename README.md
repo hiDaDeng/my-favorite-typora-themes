@@ -24,22 +24,21 @@ Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows�
 # Typora Themes 
 
 下面15个主题是大邓最喜欢的主题
-
-1.Autumnus
-2.Adark
-3.Drake
-4.FluentLight
-5.Jamstatic
-6.LessLight
-7.LessLightPrint
-8.Mo
-9.NewPrint
-10.OptAutumnus
-11.OrangeHeart
-12.PixII
-13.Torillic
-14.Vue
-15.Whitey
+1. Autumnus
+2. Adark
+3. Drake
+4. FluentLight
+5. Jamstatic
+6. LessLight
+7. LessLightPrint
+8. Mo
+9. NewPrint
+10. OptAutumnus
+11. OrangeHeart
+12. PixII
+13. Torillic
+14. Vue
+15. Whitey
 
 
 ## 1.Autumnus
