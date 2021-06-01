@@ -1,6 +1,6 @@
 
 
-# Typora
+# Typora简介
 
 Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性。
 
@@ -10,7 +10,16 @@ Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows�
 
 <br>
 
+# 主题安装方法
 
+1. 下载本主题的压缩文件[Latest release](https://github.com/AntonVanke/typora-mlike-theme/releases/latest)
+2. 打开`Typora`, 点击菜单栏的`偏好设置`-`外观`-`打开主题文件夹`
+3. 将`解压后的`文件复制到主题文件夹下(压缩包包含`mlike`文件夹、 `mlike.css` `mlike-light.css`、`mlike-dark.css`)
+4. 重新启动`Typora`，点击菜单栏的`主题`-`Mlike Light`或者`Mlike Dark`
+
+具体的安装方法可查看 [Install Theme (typora.io)](https://theme.typora.io/doc/Install-Theme/)
+
+<br>
 
 # Typora Themes 
 
@@ -39,7 +48,9 @@ Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows�
 ## 4.FluentLight
 
 ![](img/fluentlight.png)
+
 ![](img/escaping.png)
+
 <br>
 
 ## 5.Jamstatic
